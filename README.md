@@ -32,14 +32,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Dinesh's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dineshsingh099&show_icons=true&theme=radical" alt="Dinesh's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsingh099&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 <!-- CONTRIBUTION GRAPH -->
-[![Dinesh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dinesh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dineshsingh099&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
