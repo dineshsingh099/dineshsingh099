@@ -52,7 +52,7 @@ Hi, I’m Dinesh, a B.Tech student specializing in AI and Data Science. I’m pa
 
 ## ✨ Quote
 
-> *"Code is like humor. When you have to explain it, it’s bad."*
+> *"First, solve the problem. Then, write the code."*
 
 ---
 
