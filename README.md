@@ -3,16 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dinesh Singh</h1>
-<h3 align="center">🚀 Passionate AI & Machine Learning Enthusiast 🚀</h3>
-
----
 
 <!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&height=60&lines=Data+Science+and+AI+Enthusiast" alt="Typing SVG" />
-</div>
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&height=60&lines=Data+Science+%7C+AI+Enthusiast+%7C+Python+Developer" alt="Typing SVG" />
+</p>
 
 <!-- Social Icons -->
 <p align="center">
@@ -31,15 +26,15 @@
 
 ## 🧑‍💻 About Me
 
-I love exploring data and building AI-powered solutions that create real-world impact.
+I love exploring data and building AI-powered solutions using Python and machine learning.
 
 ---
 
 ## 🛠️ My Tech Stack
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,tensorflow,pytorch,sklearn,mysql,git,github,linux" />
-</div>
+</p>
 
 ---
 
@@ -47,6 +42,9 @@ I love exploring data and building AI-powered solutions that create real-world i
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dineshsingh099&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsingh099&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -65,6 +63,3 @@ I love exploring data and building AI-powered solutions that create real-world i
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=120&section=footer"/>
 </p>
-
-
-
