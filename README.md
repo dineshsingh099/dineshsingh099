@@ -13,6 +13,7 @@
 </div>
 
 
+---
 
 <!-- Social Icons below, separated -->
 <p align="center">
