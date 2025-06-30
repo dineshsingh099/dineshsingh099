@@ -13,15 +13,16 @@
 <!-- Social Icons -->
 <p align="center">
   <a href="https://github.com/dineshsingh099" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2C2C" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/dineshsingh09/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" alt="LinkedIn" />
   </a>
   <a href="mailto:dsrawat117@gmail.com">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" width="40" height="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=96271A" alt="Email" />
   </a>
 </p>
+
 
 
 
