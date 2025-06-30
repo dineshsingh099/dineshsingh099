@@ -4,11 +4,13 @@
 
 <h1 align="center">Hi 👋, I'm Dinesh Singh</h1>
 
+<br/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=2000&color=38BDAE&center=true&vCenter=true&width=1100&height=70&lines=Passionate+AI+%26+Machine+Learning+Enthusiast++%7C%7C++Data+Science++%7C%7C++Python++%7C%7C++MYSQL" alt="Typing SVG" />
 </p>
 
-
+<br/>
 
 <!-- Social Icons -->
 <p align="center">
@@ -22,9 +24,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=992222" alt="Email" />
   </a>
 </p>
-
-
-
 
 ---
 
@@ -44,13 +43,10 @@ I love exploring data and building AI-powered solutions using Python and machine
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshsingh099&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsingh099&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dineshsingh099&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsingh099&theme=radical" alt="GitHub Streak" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsingh099&layout=compact&theme=radical" alt="Top Languages" />
