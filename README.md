@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 About Me
 
-I love exploring data and building AI-powered solutions using Python and machine learning.
+Hi, I’m Dinesh, a B.Tech student specializing in AI and Data Science. I’m passionate about building innovative projects in artificial intelligence, deep learning, and computer vision. I enjoy solving real-world problems through programming and am focused on enhancing my skills and creating impactful solutions. Let’s connect to share ideas and explore new opportunities!
 
 ---
 
