@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 About Me
 
-I am an enthusiastic and dedicated AI and Data Science student with a strong interest in developing intelligent solutions using Python, Machine Learning, and Deep Learning. I enjoy exploring new technologies and applying them to solve real-world problems. I am currently focused on building projects related to artificial intelligence, data analysis, and automation. I am always eager to learn, grow, and collaborate with like-minded people to create meaningful impact.
+I am a data science student passionate about AI, machine learning, and building smart solutions using Python.
 
 ---
 
