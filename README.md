@@ -3,20 +3,18 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dinesh Singh</h1>
-<h3 align="center">🚀 Passionate AI & Machine Learning Enthusiast | Data Science | Python | MySQL 🚀</h3>
+<h3 align="center">🚀 Passionate AI & Machine Learning Enthusiast 🚀</h3>
 
 ---
 
-<!-- Typing Animation in own section -->
+<!-- Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&height=60&lines=Data+Science+and+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
-</div>
-
 ---
 
-<!-- Social Icons below, separated -->
+<!-- Social Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,7 +31,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a data science student passionate about AI, machine learning, and building smart solutions using Python.
+I love exploring data and building AI-powered solutions that create real-world impact.
 
 ---
 
