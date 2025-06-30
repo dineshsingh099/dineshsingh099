@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Dinesh Singh</h1>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&height=60&lines=Data+Science+%7C+AI+Enthusiast+%7C+Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&height=70&lines=Data+Science+%7C+AI+Enthusiast+%7C+Python+Developer" alt="Typing SVG" />
 </p>
+
 
 <!-- Social Icons -->
 <p align="center">
