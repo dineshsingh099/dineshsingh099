@@ -5,23 +5,16 @@
 <h1 align="center">Hi 👋, I'm Dinesh Singh</h1>
 <h3 align="center">🚀 Passionate AI & Machine Learning Enthusiast | Data Science | Python | MySQL 🚀</h3>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/dineshsingh099">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Data+Science+Student;AI+Enthusiast;Python+Developer;Lifelong+Learner" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- About Me -->
 ---
 
-## 🧑‍💻 About Me
-
-I am a data science student passionate about AI, machine learning, and building smart solutions using Python.
+<!-- Typing Animation in own section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Data+Science+Student;AI+Enthusiast;Python+Developer;Lifelong+Learner" alt="Typing SVG" />
+</div>
 
 ---
 
-<!-- Social Icons moved BELOW animation -->
+<!-- Social Icons below, separated -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,6 +26,12 @@ I am a data science student passionate about AI, machine learning, and building 
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🧑‍💻 About Me
+
+I am a data science student passionate about AI, machine learning, and building smart solutions using Python.
 
 ---
 
