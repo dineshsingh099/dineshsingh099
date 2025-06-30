@@ -5,8 +5,9 @@
 <h1 align="center">Hi 👋, I'm Dinesh Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&height=70&lines=Data+Science+%7C+AI+Enthusiast+%7C+Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=2000&color=38BDAE&center=true&vCenter=true&width=900&height=70&lines=Passionate+AI+%26+Machine+Learning+Enthusiast+%7C%7C+Data+Science+%7C%7C+Python+%7C%7C+MYSQL" alt="Typing SVG" />
 </p>
+
 
 
 <!-- Social Icons -->
