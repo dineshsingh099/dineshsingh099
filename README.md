@@ -63,6 +63,8 @@ I love exploring data and building AI-powered solutions that create real-world i
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1172,100:2C3E50&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=120&section=footer"/>
 </p>
+
+
 
