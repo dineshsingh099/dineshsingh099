@@ -36,7 +36,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI & Data Science
+### 🤖 AI & Machine Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql" />
 </p>
@@ -50,24 +50,25 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
+
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dineshsingh099&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsingh099&theme=radical" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dineshsingh099&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsingh099&theme=radical" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsingh099&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsingh099&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## ✨ Quote
 
-> *"First, solve the problem. Then, write the code."*
+> "First, solve the problem. Then, write the code."
 
 ---
 
