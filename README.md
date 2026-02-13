@@ -39,10 +39,7 @@ Hi, I’m Dinesh, a B.Tech student specializing in AI and Data Science. I’m pa
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dineshsingh099&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsingh099&theme=radical" alt="GitHub Streak" />
-</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsingh099&layout=compact&theme=radical" alt="Top Languages" />
