@@ -1,33 +1,36 @@
 <p align="center">
-  <img src="https://github.com/dineshsingh099/dineshsingh099/blob/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Dinesh%20Singh&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dinesh Singh</h1>
 
 <h3 align="center">
-AI & Machine Learning Engineer | Data Science Enthusiast | Python Developer
+🎓 B.Tech Student | AI & Data Science Enthusiast | Web Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=2000&color=38BDAE&center=true&vCenter=true&width=1000&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+Python+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=2000&color=38BDAE&center=true&vCenter=true&width=950&lines=Artificial+Intelligence+%7C+Machine+Learning;Data+Science+%7C+Deep+Learning;Web+Development+%7C+HTML+CSS+JavaScript;Python+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech student specializing in **Artificial Intelligence & Data Science**  
-🤖 Passionate about **Machine Learning, Deep Learning & Computer Vision**  
-📊 Strong interest in **Data Analytics & Model Development**  
-🚀 Focused on building impactful, real-world AI solutions  
-📚 Continuously learning and improving my technical expertise  
+Hi, I'm Dinesh Singh, a B.Tech student specializing in Artificial Intelligence and Data Science.  
+I am passionate about building intelligent systems and exploring how machine learning can solve real-world problems.
+
+Alongside AI, I have a strong interest in Web Development and enjoy creating responsive and user-friendly web applications using HTML, CSS, and JavaScript.
+
+I continuously improve my skills in Python, Machine Learning, and Data Science by working on practical projects that strengthen my problem-solving abilities.
+
+I believe in consistent learning, hands-on practice, and building impactful solutions.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,sklearn,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,html,css,js,git,github,linux,vscode" />
 </p>
 
 ---
@@ -35,22 +38,13 @@ AI & Machine Learning Engineer | Data Science Enthusiast | Python Developer
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dineshsingh099&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsingh099&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dineshsingh099&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsingh099&theme=tokyonight&cache_seconds=1800" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsingh099&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsingh099&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
-
----
-
-## 🌟 What I’m Working On
-
-- 🔬 Advanced Machine Learning Projects  
-- 🧠 Neural Network Implementations  
-- 📊 Data-Driven Applications  
-- 🚀 Improving Problem-Solving & System Design Skills  
 
 ---
 
@@ -70,9 +64,9 @@ AI & Machine Learning Engineer | Data Science Enthusiast | Python Developer
 
 ---
 
-## 💡 Developer Philosophy
+## 💡 Developer Mindset
 
-> "Build. Break. Learn. Improve. Repeat."
+> "Learn. Build. Improve. Repeat."
 
 ---
 
