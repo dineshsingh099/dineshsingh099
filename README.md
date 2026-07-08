@@ -91,12 +91,12 @@ Implemented deep learning models (Perceptron, MLP) from scratch using Python & N
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dineshsingh099&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=dineshsingh099&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=dineshsingh099&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=dineshsingh099&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsingh099&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dineshsingh099&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
