@@ -39,34 +39,20 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**🤖 AI & Machine Learning**
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+<p align="center">
+  <b>🤖 AI & Machine Learning</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-**🌐 Web Development**
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,fastapi,mongodb" />
+<p align="center">
+  <b>🌐 Web Development</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,fastapi,mongodb" />
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-**⚙️ Tools & Platforms**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql" />
+<p align="center">
+  <b>⚙️ Tools & Platforms</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql" />
 </p>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -74,68 +60,47 @@
 
 <!-- Replace the # links below with your actual repo URLs -->
 
-<table>
-<tr>
-<td width="50%">
-
 ### 📰 Fake News Detection System
 End-to-end fake news classifier on the LIAR dataset using a soft-voting ensemble (Logistic Regression + Naive Bayes + Random Forest). TF-IDF with bigrams (10K features), modular pipeline with pytest tests, and an interactive Streamlit dashboard with confidence scoring.
 
-`Python` `Scikit-learn` `NLTK` `Streamlit` `TF-IDF`
+`Python` `Scikit-learn` `NLTK` `Streamlit` `TF-IDF` &nbsp; [🔗 View Repo](#)
 
-[🔗 View Repo](#)
-
-</td>
-<td width="50%">
+<br/>
 
 ### 🚕 Ride Sharing Platform
 Full-stack ride-sharing platform with ride booking, trip management, and user authentication. MongoDB schema design, REST APIs with FastAPI, and a responsive React frontend with secure login/session handling.
 
-`FastAPI` `React` `MongoDB`
+`FastAPI` `React` `MongoDB` &nbsp; [🔗 View Repo](#)
 
-[🔗 View Repo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+<br/>
 
 ### 🔍 Code Review Analyzer
 AI-powered full-stack app that analyzes code quality and generates automated feedback using the Gemini API. FastAPI backend for code processing, responsive React frontend, and MongoDB to store review history.
 
-`React` `FastAPI` `MongoDB` `Gemini API`
+`React` `FastAPI` `MongoDB` `Gemini API` &nbsp; [🔗 View Repo](#)
 
-[🔗 View Repo](#)
-
-</td>
-<td width="50%">
+<br/>
 
 ### 🧠 Deep Learning From Scratch
 Implemented deep learning models (Perceptron, MLP) from scratch using Python & NumPy during an ML research internship. Designed modular pipelines for preprocessing, training, and evaluation — later containerized with Docker.
 
-`Python` `NumPy` `Pandas` `Docker`
-
-[🔗 View Repo](#)
-
-</td>
-</tr>
-</table>
+`Python` `NumPy` `Pandas` `Docker` &nbsp; [🔗 View Repo](#)
 
 <br/>
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dineshsingh099&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsingh099&theme=radical&hide_border=true" />
-</div>
+  <img height="165" src="https://streak-stats.demolab.com?user=dineshsingh099&theme=radical&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsingh099&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshsingh099&theme=redical&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshsingh099&theme=radical&hide_border=true" alt="Activity Graph" />
 </p>
 
 <br/>
